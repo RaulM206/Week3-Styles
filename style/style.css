@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+
+}
+
+body{
+background-color: #E8B5A5;
+}
+
+p{
+    color: #669E37;
+}
+
+em{
+    color: rgb(143,38,31);
+
+}
+b{
+    background-color: rgb(199,58,222);
+}
+u{
+    background-color: orange;
+}
